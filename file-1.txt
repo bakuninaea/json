@@ -1,0 +1,14 @@
+{
+   "parent-category" : {
+      "name" : "name category",
+      "description" : "description category",
+      "picture" : "picture category",
+      "child-category" : "category"
+   },
+   "product" : {
+      "name" : "Название продукта",
+      "description" : "Описание продукта",
+      "picture" : "picture",
+      "category product" : "подкатегория"
+   }
+}
